@@ -21,6 +21,8 @@ import com.google.firebase.auth.FirebaseUser;
 
 public class MainActivity extends AppCompatActivity
 {
+
+    //Abhijeet Kumar Gupta has hacked
     EditText email,pass;
     TextView textView;
     Button signin;

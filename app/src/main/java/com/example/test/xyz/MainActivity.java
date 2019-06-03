@@ -22,7 +22,8 @@ import com.google.firebase.auth.FirebaseUser;
 public class MainActivity extends AppCompatActivity
 {
 
-    //Abhijeet Kumar Gupta has hacked..mhgjh
+    //Abhijeet Kumar Gupta has hacked..mhgjh alok ranjan
+    TextView t;
     EditText email,pass;
     TextView textView;
     Button signin;
